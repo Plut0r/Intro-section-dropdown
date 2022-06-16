@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Git repo link](https://your-solution-url.com)
+- Solution URL: [Git repo link](https://github.com/Plut0r/Intro-section-dropdown)
 - Live Site URL: [Git live url](https://your-live-site-url.com)
 
 
